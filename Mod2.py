@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 26 17:46:21 2020
 
-@author: soura
-"""
 import cv2
 import numpy as np
 from os import listdir
